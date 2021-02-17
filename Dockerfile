@@ -1,4 +1,4 @@
-FROM node:14.10.0-buster-slim
+FROM node:14.15.5-buster-slim
 MAINTAINER Jan Reges https://www.siteone.cz/
 
 RUN set -x \
